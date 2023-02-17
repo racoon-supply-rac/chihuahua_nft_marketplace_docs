@@ -1,7 +1,9 @@
 The current roadmap/planning is a detailed and updated version of the proposal's milestones that were published on-chain. <br>
 
 ## Milestone #0 - Preparation and planning: (February 10th, 2023 to February 17th, 2023) 
-The goal for this part of the project is to identify all of the resources we will need to build the NFT marketplace, including visuals and designs for the website/application and the smart contract, as well as additional front-end and back-end development.
+The goal for this part of the project is to identify all of the resources we will need to build the NFT marketplace, including visuals and designs for the website/application and the smart contract, as well as additional front-end and back-end development. <br>
+
+Also, we made some visuals about the marketplace and the smart contracts to let everyone see what is our idea of the marketplace. These are mainly sketches of how we intend to make our own implementation of an NFT marketplace. We're looking forward to get your comments and feedback.
 
 ### Expected Resources Needed to Realize the Project
 Our team consists of one front-end developer and one back-end developer, so we have sufficient resources to create the website/application interface and the Rust smart contract.<br>
