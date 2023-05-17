@@ -11,9 +11,9 @@ The funds were received on February 8th, 2023 and we transfered to the following
 | Task | Start Date | Delivered Date | Milestone status |
 | ---- | ---------- | -------- | -------- |
 | Milestone 0: Prep & Planning | 02/10/2023 | 02/17/2023 |  Delivered ✅ |
-| Milestone 1: Alpha version | 02/17/2023 | MM/DD/YYYY | In progress ⌛ |
-| Milestone 2: Beta version | MM/DD/YYYY | MM/DD/YYYY |  Not initiated |
-| Milestone 3: Beta 2 version | MM/DD/YYYY | MM/DD/YYYY |  Not initiated |
+| Milestone 1: Alpha version | 02/17/2023 | 03/24/2023 | Delivered ✅ |
+| Milestone 2: Beta version | 03/24/2023 | 06/05/2023 |  Delivered ✅ |
+| Milestone 3: Beta 2 version | 06/05/2023 | MM/DD/YYYY |  In progress... |
 | Milestone 4: Release | MM/DD/YYYY | MM/DD/YYYY |  Not initiated |
 | Milestone 5: Maintenance | MM/DD/YYYY | MM/DD/YYYY |  Not initiated |
 
